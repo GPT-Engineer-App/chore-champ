@@ -2,14 +2,14 @@
 
 Please create a basic todo app with the following features:
 
-- A header with the title "My Todo List"
+- A header with the title "My Todo List" 
 - An input field where the user can type a new todo and press Enter to add it
 - A list showing all the todos
-- Each todo should have a checkbox to mark it as completed
+- Each todo should have a checkbox to mark it as completed 
 - Completed todos should be visually distinguished (e.g. strikethrough text)
 - A button to clear all completed todos
 
-You can use placeholder todos for now. Use Chakra UI components where appropriate to create a clean and friendly look.
+You can use placeholder todos for now. Use shadcn components where appropriate to create a clean and friendly look.
 
 ## Collaborate with GPT Engineer
 
